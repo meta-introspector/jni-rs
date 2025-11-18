@@ -8,5 +8,5 @@ publish = false
 windows-bindgen = "0.59"
 
 # Prevent this from interfering with other crates/workspaces
-[workspace]
-members = ["."]
+#[workspace]
+#members = ["."]
